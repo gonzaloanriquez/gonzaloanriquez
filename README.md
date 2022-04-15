@@ -6,7 +6,9 @@ https://www.linkedin.com/in/gonzaloanriquezg/
 - 👯 I’m looking to collaborate on Data Science & Computer Vision projects
 - 📫 How to reach me: gonzalo.anriquezg@gmail.com
 -  Santiago, Chile by now.
-- 🔭 I’m currently working on ...
+-  🔭 I’m currently working on ...
+
+- 
   -    
 
 
