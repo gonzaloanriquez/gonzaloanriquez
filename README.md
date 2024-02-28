@@ -9,7 +9,7 @@ https://www.linkedin.com/in/gonzaloanriquezg/
 - 🔭 I’m currently working on 
 
 Languages and Tools:
-Python R SQL MySQL Git GitHub HTML5
+Python R SQL MySQL Git GitHub HTML5 JS PySpark
 
 <!--
 
